@@ -4,6 +4,6 @@ Started from **25/12/2018**
 3/Jan/2019
 Database: two tables in phpAdmin: categories and posts
 1.  Home Page: display collection and Posts, 
-			   searching function
-2.	Admin Page: Posts (Create, Read, Update, Delete )
-				Collection (Create, Read, Update, Delete)
+	       searching function
+2.  Admin Page: Posts (Create, Read, Update, Delete )
+		Collection (Create, Read, Update, Delete)
